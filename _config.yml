@@ -1,0 +1,24 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink: pretty
+
+# Setup
+title: andeyt
+tagline: 'design, programming, and life'
+description: 'Talking about programming, game design, creativity, and life in general.'
+baseurl: ''
+paginate: 8
+github_username: andeyt
+twitter_username: theonlyandey
+
+# About/contact
+author:
+  name: Andey Tuttle
+  email: jtuttle5@uwyo.edu
+
+# Custom vars
+version: 1.0.0
+
+# Gems
+gems: [jekyll-paginate]
