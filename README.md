@@ -1,2 +1,2 @@
 # andey.github.io
-Go visit my blog [here](andeyt.github.io)
+Go visit my blog [here](https://andeyt.github.io)
