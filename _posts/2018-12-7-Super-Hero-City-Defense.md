@@ -29,6 +29,6 @@ As development progresses, I'll delve into each of these archetypes in more deta
 As for the villain, he definitely fits into a more Spike-y playstyle. His deck will feature discard, sacrifice, mill, and prison elements. Another major design problem will be making it so that players who aren't very "take-that" style gamers will have somethings that they can enjoy doing as the supervillain.
 
 ## Conclusion
-Overall, as I kick off the development process on this game, something I'm tentatively calling Heroes, I'm excited and optimistic. I believe there's going to be enough variety so that most types of card-game players will have something to do. Hopefully the storyline will be compelling enough to keep players entertained and engaged throughout the process. Unil next time.
+Overall, as I kick off the development process on this game, something I'm tentatively calling Heroes, I'm excited and optimistic. I believe there's going to be enough variety so that most types of card-game players will have something to do. Hopefully the storyline will be compelling enough to keep players entertained and engaged throughout the process. Until next time.
 
 -Andey
