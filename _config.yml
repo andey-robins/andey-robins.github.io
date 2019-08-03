@@ -4,17 +4,17 @@
 permalink: pretty
 
 # Setup
-title: andeyt
+title: and they're robin'
 tagline: 'design, programming, and life'
 description: 'Talking about programming, game design, creativity, and life in general.'
 baseurl: ''
 paginate: 8
-github_username: andeyt
+github_username: andey-robins
 twitter_username: theonlyandey
 
 # About/contact
 author:
-  name: Andey Tuttle
+  name: Andey Robins
   email: jtuttle5@uwyo.edu
 
 # Custom vars
