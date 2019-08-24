@@ -84,7 +84,9 @@ So if you can't tell, I think one of these abilities is far and above better tha
 ## Cards
 Now, time for the bread and butter of any card game! The cards themselves. Now, there's 40 pages of creatures, each page with like 8 creatures spoiled, so I'll link to the full spoiler [here](https://docs.google.com/document/d/1--_soZprsUVg0Ruc9d_Q3tjEz4k5XSdHwVawHCcgVAY/edit) and just talk about the highlights in this part of the article. Additionally, unless there is something truly unique about the card, I'll only name them in the buckets where they are most valuable. So here goes, organized by God (color):
 
-# Strife
+### Strife
+|Bucket|Cards|
+|---|---|
 |Value|Temple Runner; Vengeful Barbarian; Combat Reveler; War Celebrant|
 |Closers|Disciple of Strife; Flame Rider; Strife, Lord of War; War Incarnate|
 |Removal|Incinerate; Ignite; Scald|
@@ -92,7 +94,9 @@ Now, time for the bread and butter of any card game! The cards themselves. Now, 
 
 Thoughts: Strife seems to be decent in its ability to deal damage to opposing followers, and it could be a very good splash color or closing color in order to keep your opponent at bay. It doesn't feel too fast despite the multiple urgency cards.
 
-# Infestation
+### Infestation
+|Bucket|Cards|
+|---|---|
 |Value|Acolyte of Faith; Shrine Architect; Druid of Devotion; Call to Arms|
 |Closers|Astral Crusher; Growth Incarnate; Infestation, God of Growth; Forest of Infestation; Insectile Invasion|
 |Removal|Showdown|
@@ -100,7 +104,9 @@ Thoughts: Strife seems to be decent in its ability to deal damage to opposing fo
 
 Thoughts: Infestation seems to go ultra hard on the ramp, and so unless there is some aggressive deck in the format, I don't see why every deck wouldn't run an Infestation Ramp package. Especially with cards like Acolyte of Faith just giving you shrines in the early game.
 
-# Occult
+### Occult
+|Bucket|Cards|
+|---|---|
 |Value|Admirer of Revelation; Harbinger of Epiphany; Shaman of Marvel; Spiritual Enforcer; Mysticism Incarnate|
 |Closers|Insight Seeker; Occult, God of Mysticism; Occult's Tome; Occult's Reckoning|
 |Removal|Soul Cage?; Avenging Conscription?|
@@ -108,7 +114,9 @@ Thoughts: Infestation seems to go ultra hard on the ramp, and so unless there is
 
 Thoughts: Occult doesn't have much in terms of removal other than bounce spells. With that being said, it has some damn good closers in Occult's Reckoning, Occult's Tome, and Occult, God of Mysticism. This seems to be an OP color, and it seems likely with all the card draw you could grind through most of your deck to set up a consistent win in just this color.
 
-# Contagion
+### Contagion
+|Bucket|Cards|
+|---|---|
 |Value|Acolyte of Consumption; Unstable Horror; Reckless Abomination; Disciple of Contagion; The Void's Embrace|
 |Closers|Void Warrior; Thrashing Horror; Monk of Unknown Horrors; Contagion, God of Decay|
 |Removal|Toxic Abomination; Putrefy|
@@ -116,7 +124,9 @@ Thoughts: Occult doesn't have much in terms of removal other than bounce spells.
 
 Thoughts: Contagion seems to have a ton of ways for you to put things into the Void, Sacrifice followers, and similar effects; however, the payoffs for those seem to be much weaker. I would want to see a card or two that has payoffs for filling the void before I really thought about a master contagion decklist.
 
-# Grandeur
+### Grandeur
+|Bucket|Cards|
+|---|---|
 |Value|Acolyte of Honor; Kingdom Enforcer; Grizzled Veteran; Restore Faith|
 |Closers|Grandeur, God of Glory; Armor Upgrade?; Grandeur's Reckoning?|
 |Removal|Dematerialize; Place in the Pillory; Vanquish|
