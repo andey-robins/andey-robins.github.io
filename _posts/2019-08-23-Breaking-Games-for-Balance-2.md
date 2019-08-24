@@ -86,6 +86,8 @@ Now, time for the bread and butter of any card game! The cards themselves. Now, 
 
 ### Strife
 
+Thoughts: Strife seems to be decent in its ability to deal damage to opposing followers, and it could be a very good splash color or closing color in order to keep your opponent at bay. It doesn't feel too fast despite the multiple urgency cards.
+
 |Bucket|Cards|
 |---|---|
 |Value|Temple Runner; Vengeful Barbarian; Combat Reveler; War Celebrant|
@@ -93,9 +95,9 @@ Now, time for the bread and butter of any card game! The cards themselves. Now, 
 |Removal|Incinerate; Ignite; Scald|
 |Card Advantage|Flaming Arrows; Blinding Blaze|
 
-Thoughts: Strife seems to be decent in its ability to deal damage to opposing followers, and it could be a very good splash color or closing color in order to keep your opponent at bay. It doesn't feel too fast despite the multiple urgency cards.
-
 ### Infestation
+
+Thoughts: Infestation seems to go ultra hard on the ramp, and so unless there is some aggressive deck in the format, I don't see why every deck wouldn't run an Infestation Ramp package. Especially with cards like Acolyte of Faith just giving you shrines in the early game.
 
 |Bucket|Cards|
 |---|---|
@@ -104,9 +106,9 @@ Thoughts: Strife seems to be decent in its ability to deal damage to opposing fo
 |Removal|Showdown|
 |Card Advantage|Prayer for Intervention; Bolster Devotion|
 
-Thoughts: Infestation seems to go ultra hard on the ramp, and so unless there is some aggressive deck in the format, I don't see why every deck wouldn't run an Infestation Ramp package. Especially with cards like Acolyte of Faith just giving you shrines in the early game.
-
 ### Occult
+
+Thoughts: Occult doesn't have much in terms of removal other than bounce spells. With that being said, it has some damn good closers in Occult's Reckoning, Occult's Tome, and Occult, God of Mysticism. This seems to be an OP color, and it seems likely with all the card draw you could grind through most of your deck to set up a consistent win in just this color.
 
 |Bucket|Cards|
 |---|---|
@@ -115,9 +117,9 @@ Thoughts: Infestation seems to go ultra hard on the ramp, and so unless there is
 |Removal|Soul Cage?; Avenging Conscription?|
 |Card Advantage|Acolyte of Inquiry; Professor of Truths; Shrine Investigator; Disciple of Occult; Divine Omen|
 
-Thoughts: Occult doesn't have much in terms of removal other than bounce spells. With that being said, it has some damn good closers in Occult's Reckoning, Occult's Tome, and Occult, God of Mysticism. This seems to be an OP color, and it seems likely with all the card draw you could grind through most of your deck to set up a consistent win in just this color.
-
 ### Contagion
+
+Thoughts: Contagion seems to have a ton of ways for you to put things into the Void, Sacrifice followers, and similar effects; however, the payoffs for those seem to be much weaker. I would want to see a card or two that has payoffs for filling the void before I really thought about a master contagion decklist.
 
 |Bucket|Cards|
 |---|---|
@@ -126,9 +128,9 @@ Thoughts: Occult doesn't have much in terms of removal other than bounce spells.
 |Removal|Toxic Abomination; Putrefy|
 |Card Advantage|Return from the Void; Drain Intellect; Rip from the Void|
 
-Thoughts: Contagion seems to have a ton of ways for you to put things into the Void, Sacrifice followers, and similar effects; however, the payoffs for those seem to be much weaker. I would want to see a card or two that has payoffs for filling the void before I really thought about a master contagion decklist.
-
 ### Grandeur
+
+Thoughts: I love how Grandeur feels like there are two distinct decks that come out of it. There's the defensive deck with defender, shield, and healing effects that relies on a big finisher to close out the game, and there's a tempo deck that cares about counters and the leader effect. This god feels like it might have the best identity of all of them. That being said, it seems like Grandeur is lacking big closers and would look to win through more tempo gameplay and war of attrition style games.
 
 |Bucket|Cards|
 |---|---|
@@ -136,8 +138,6 @@ Thoughts: Contagion seems to have a ton of ways for you to put things into the V
 |Closers|Grandeur, God of Glory; Armor Upgrade?; Grandeur's Reckoning?|
 |Removal|Dematerialize; Place in the Pillory; Vanquish|
 |Card Advantage|Prepare for Battle?|
-
-Thoughts: I love how Grandeur feels like there are two distinct decks that come out of it. There's the defensive deck with defender, shield, and healing effects that relies on a big finisher to close out the game, and there's a tempo deck that cares about counters and the leader effect. This god feels like it might have the best identity of all of them. That being said, it seems like Grandeur is lacking big closers and would look to win through more tempo gameplay and war of attrition style games.
 
 ## Final Thoughts
 So at this point, I've examined every part of this game and it's time to start building decks and throwing them at each other to try to crack the meta-game wide open on day 0. Unfortunately, this blog post is already the longest one I've ever written, so we're going to go ahead and split the deck building into the next post! After that, I'll play a bunch of games and report back with my findings and tuned lists in a further post, and finally give a final verdict on my views of the meta-game of this unreleased, in design game, as well a discuss how I would go about changing the design to account for those systems.
