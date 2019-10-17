@@ -143,4 +143,4 @@ Thoughts: I love how Grandeur feels like there are two distinct decks that come 
 So at this point, I've examined every part of this game and it's time to start building decks and throwing them at each other to try to crack the meta-game wide open on day 0. Unfortunately, this blog post is already the longest one I've ever written, so we're going to go ahead and split the deck building into the next post! After that, I'll play a bunch of games and report back with my findings and tuned lists in a further post, and finally give a final verdict on my views of the meta-game of this unreleased, in design game, as well a discuss how I would go about changing the design to account for those systems.
 
 Until next time.
--Ande
+-Andey
